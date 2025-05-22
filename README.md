@@ -1,0 +1,1 @@
+This project is designed to celebrate the festival of Diwali by programmatically wishing 'Happy Diwali' and visually simulating the lighting of fireworks using Python's Turtle module. Through creative coding, we aim to bring the festive spirit to life on screen, demonstrating the joy and vibrancy of Diwali with animated firecrackers and illuminated designs.
